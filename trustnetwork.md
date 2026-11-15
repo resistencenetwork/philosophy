@@ -38,3 +38,22 @@ The same principle applies to work. People can join with or without formal quali
 AI can do useful work and help companies become more productive. When that also leads to job losses, people should have a voice in how the gains are shared and how workers are supported through the change. A few rupees for watching a video address one transaction. **The ability to meet basic needs and live with dignity is a broader commitment that should apply to everyone.**
 
 Companies can still build products, compete, and earn profits. The change is that people can organize across apps, set the terms for their own participation, and have a say in the rules companies and AI agents follow when dealing with them.
+
+In the Trust Network, **you own the video you create. A YouTube-like app gets your permission to show it on terms you agree to.**
+
+Say you film a cooking tutorial. You keep the original in storage you control. You can pay the community to store it, or choose another provider. When you publish it on a video app, you might give the app these terms:
+
+> Show my video to anyone who pays ₹2 to watch. Keep ₹0.20 for running the service and pay me ₹1.80. I can stop new sales or offer the same video on another app.
+
+Here’s how I’d divide the rights.
+
+| Who | What they control |
+|---|---|
+| **Creator** | Keeps ownership of the video, chooses which apps can show it, sets the price, and can end permission for new sales. |
+| **Video app** | Can store a working copy, display a thumbnail, stream the video, and collect the agreed fee. It can decide which videos to carry under its published rules. |
+| **Viewer** | Gets the viewing access described before paying. The viewer also controls whether their watch history can be used for things like advertising or sold as market research. |
+| **Advertiser or AI company** | Makes a separate offer for each use beyond ordinary viewing, such as putting an ad next to the tutorial, using a clip in a campaign, or training an AI model. The creator can quote a price or decline. |
+
+A sponsored video works in the other payment direction. A cookware company can offer you **₹1 to watch its 30-second demo**. You choose whether to watch. If it also wants your email or viewing history, it has to ask separately. **The creator sets the terms for the video. The viewer sets the terms for their attention and personal data.**
+
+A practical test of ownership is what happens when you leave. You should be able to take your video to another app and stop the first app from offering it to new viewers. Anyone who already paid gets the access they were promised. The community-run registration service makes the same membership and shared rules work across both apps.
